@@ -3,3 +3,4 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brenden-s-smith/"><i class="ri-linkedin-box-fill"></i></a>
+</div>
