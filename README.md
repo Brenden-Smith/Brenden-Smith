@@ -11,4 +11,9 @@
 
 ## Notable Projects
 ### [Hermes](https://github.com/danieljo09/Hermes)
-An application that connects students in need of resources to donors willing to provide those resources. I worked in a team of four to design this for the Google DSC Solution Challenge 2021. We primarily used Flutter to design the front-end, and Firebase to do the back-end. I specifically focused on front-end and UI aspects for this project.
+Hermes is an application that connects students in need of resources to donors willing to provide those resources. I worked in a team of four to design this for the Google DSC Solution Challenge 2021. We primarily used Flutter to design the front-end, and Firebase to do the back-end. I specifically focused on front-end and UI aspects for this project.
+
+### [Journey](https://github.com/Brenden-Smith/Journey)
+Winner of MarinaHacks’ Mental Health Category.
+
+Journey is an application designed to help users keep track of their moods and thoughts, while giving them calming music to listen to as well. We designed this app with Flutter, Dart, YouTube API, and Zen Quotes API. Specifically, I did both front and back-end work on this project, including implementing the quotes API and working with the data structures.
