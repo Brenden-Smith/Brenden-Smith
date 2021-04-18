@@ -10,6 +10,9 @@
 </p>
 
 ## Notable Projects
+### [Gro](https://github.com/Brenden-Smith/Gro)
+Gro is an application that helps users keep track of their plant care needs and journal about their plants. I worked in a team of three to design this for BeachHacks 2021. I built the back-end aspects of this application, such as user authentication and cloud storage, using Firebase. I also implemented the trefle.io API to use as the plant database, and I worked on various front-end aspects with Flutter.
+
 ### [Hermes](https://github.com/danieljo09/Hermes)
 Hermes is an application that connects students in need of resources to donors willing to provide those resources. I worked in a team of four to design this for the Google DSC Solution Challenge 2021. We primarily used Flutter to design the front-end, and Firebase to do the back-end. I specifically focused on front-end and UI aspects for this project.
 
