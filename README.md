@@ -20,3 +20,6 @@ Hermes is an application that connects students in need of resources to donors w
 Winner of MarinaHacks’ Mental Health Category.
 
 Journey is an application designed to help users keep track of their moods and thoughts, while giving them calming music to listen to as well. We designed this app with Flutter, Dart, YouTube API, and Zen Quotes API. Specifically, I did both front and back-end work on this project, including implementing the quotes API and working with the data structures.
+
+### [YouTube Video Sync](https://github.com/Brenden-Smith/Gro)
+YouTube Video Sync is an application created so that users may simultaneously watch YouTube videos with their friends in their own browser. It utilizes React, Node.js, and Google Cloud (Firebase, Cloud Functions, YouTube Data API, YouTube IFrame API) as its stack. I was the sole developer on this project, so I designed and implemented both the front and the back end aspects.
