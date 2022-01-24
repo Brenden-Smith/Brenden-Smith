@@ -16,10 +16,5 @@ Gro is an application that helps users keep track of their plant care needs and 
 ### [Hermes](https://github.com/danieljo09/Hermes)
 Hermes is an application that connects students in need of resources to donors willing to provide those resources. I worked in a team of four to design this for the Google DSC Solution Challenge 2021. We primarily used Flutter to design the front-end, and Firebase to do the back-end. I specifically focused on front-end and UI aspects for this project.
 
-### [Journey](https://github.com/Brenden-Smith/Journey)
-Winner of MarinaHacks’ Mental Health Category.
-
-Journey is an application designed to help users keep track of their moods and thoughts, while giving them calming music to listen to as well. We designed this app with Flutter, Dart, YouTube API, and Zen Quotes API. Specifically, I did both front and back-end work on this project, including implementing the quotes API and working with the data structures.
-
-### [YouTube Video Sync](https://github.com/Brenden-Smith/Gro)
+### [YouTube Video Sync](https://github.com/Brenden-Smith/YouTube-Video-Sync)
 YouTube Video Sync is an application created so that users may simultaneously watch YouTube videos with their friends in their own browser. It utilizes React, Node.js, and Google Cloud (Firebase, Cloud Functions, YouTube Data API, YouTube IFrame API) as its stack. I was the sole developer on this project, so I designed and implemented both the front and the back end aspects.
