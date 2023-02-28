@@ -14,7 +14,7 @@
 
 ### [Handle Delivery](https://handledelivery.com)
 
-Handle Delivery is a snack delivery application focused around college campuses. I contributed to the 
+Handle Delivery is a snack delivery application focused around college campuses. I manage the back end resources over Google Cloud, created a robust administrator dashboard to improve operations workflow, and redesigned the customer app to increase performance.
 
 ### [Video Sync](https://github.com/Brenden-Smith/Video-Sync)
 Video Sync is an application created so that users may simultaneously watch YouTube videos with their friends in their own browser. It utilizes React, Node.js, and Google Cloud (Firebase, Cloud Functions, YouTube Data API, YouTube IFrame API) as its stack. I was the sole developer on this project, so I designed and implemented both the front and the back end aspects.
