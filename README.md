@@ -7,6 +7,7 @@
 ## Statistics
 
 [![Brenden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenden-Smith&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=brendensmith&langs_count=5&layout=default&custom_title=Activity%20Since%20Dec.%202021&theme=dark)
 
 ## Notable Projects & Contributions
 
