@@ -1,10 +1,14 @@
 # <div align="center">Brenden Smith</div>
 <h3 align='center'>
-  <a href="https://brenden-smith.com">Portfolio</a>
+  <a href="https://brenden-smith.com">Website</a>
+  •
+  <a href="https://brenden-smith.com](https://www.linkedin.com/in/brenden-s-smith/">LinkedIn</a>
 </h3>
-
-[![Brenden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenden-Smith&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=@brendensmith&langs_count=5&layout=default&custom_title=Activity%20Since%20April.%202023&range=all_time&theme=dark)]([https://github.com/Brenden-Smith](https://wakatime.com/@brendensmith))
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%; height: 100px; background-color: #000000;">
+  
+[![Brenden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenden-Smith&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=@brendensmith&langs_count=5&layout=default&custom_title=Activity%20Since%20April.%202023&range=all_time&theme=dark)]([https://github.com/Brenden-Smith](https://wakatime.com/@brendensmith))
+  
+</div>
 
 ## Notable Projects & Contributions
 
