@@ -5,7 +5,7 @@
 </p>
 
 [![Brenden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenden-Smith&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=@brendensmith&langs_count=5&layout=default&custom_title=Activity%20Since%20April.%202023&theme=dark&range=all_time)]([https://github.com/Brenden-Smith](https://wakatime.com/@brendensmith))
+[![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=@brendensmith&langs_count=5&layout=default&custom_title=Activity%20Since%20April.%202023&range=all_time)]([https://github.com/Brenden-Smith](https://wakatime.com/@brendensmith))
 
 ## Notable Projects & Contributions
 
