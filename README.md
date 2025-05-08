@@ -1,24 +1,48 @@
-# <div align="center">Brenden Smith</div>
-<h3 align='center'>
-  <a href="https://brenden-smith.com">Website</a>
-  •
-  <a href="https://brenden-smith.com](https://www.linkedin.com/in/brenden-s-smith/">LinkedIn</a>
-</h3>
-<!-- <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%; height: 100px; background-color: #000000;">
-  
-[![Brenden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenden-Smith&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=@brendensmith&langs_count=5&layout=default&custom_title=Activity%20Since%20April.%202023&range=all_time&theme=dark)]([https://github.com/Brenden-Smith](https://wakatime.com/@brendensmith))
-  
-</div> -->
+<h2 align="left">Hey! 👋 My name is Brenden and I'm a Full Stack Software Engineer</h2>
 
-## Notable Projects & Contributions
+###
 
-### [Handle Delivery](https://handledelivery.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brenden-Smith&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brenden-Smith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Handle Delivery is a snack delivery application focused around college campuses. I manage the back end resources over Google Cloud, created a robust administrator dashboard to improve operations workflow, and redesigned the customer app to increase performance.
+###
 
-### [FooDood](https://www.foodood.dev)
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/61305154"  />
 
-FooDood is a mobile application that combines the concept of Tinder-swiping with selecting something to eat. Science says that it is easier to make a decision when presented with simple options such as "yes" or "no" rather than a large list of options. FooDood will present users with a list of food options in their area and they will be able to swipe left or right on the options to decide what to eat. I worked on the back end of this application, developing the recommendation algorithm, database, fetching and caching, and other cloud resources.
+###
 
-### [Video Sync](https://github.com/Brenden-Smith/Video-Sync)
-Video Sync is an application created so that users may simultaneously watch YouTube videos with their friends in their own browser. It utilizes React, Node.js, and Google Cloud (Firebase, Cloud Functions, YouTube Data API, YouTube IFrame API) as its stack. I was the sole developer on this project, so I designed and implemented both the front and the back end aspects.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/brenden-s-smith/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://brenden-smith.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Brenden-Smith/Brenden-Smith/output/snake.svg" alt="Snake animation" />
+
+###
