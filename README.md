@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/61305154"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -39,9 +35,6 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
 </div>
 
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Brenden-Smith/Brenden-Smith/output/snake.svg" alt="Snake animation" />
 
