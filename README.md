@@ -35,16 +35,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/brenden-s-smith/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://brenden-smith.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website"  />
-</div>
-
 <img src="https://raw.githubusercontent.com/Brenden-Smith/Brenden-Smith/output/snake.svg" alt="Snake animation" />
-
-###
